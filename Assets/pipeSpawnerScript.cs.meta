@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a4c2052413dc2e14e8a03d774cc01781
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pipe: {fileID: 7164625870709870029, guid: b5972126a3336ec42a42a3e29d19aaaa, type: 3}
+  - spawnClip: {fileID: 8300000, guid: 05fd6e4867f586c49b4e5deb679eb82b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
